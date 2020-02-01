@@ -21,3 +21,11 @@ SSM-CRUD/bilibili雷丰阳雷大神视屏讲解ssm_crud/IDEA版
 <br>解决方法：mybatis条件查询可设置查询规则
 <br>3）前端jsp文件中的{APP_PATH}即以服务器为标准的相对路径时不时报错，建议pom文件添加jstl、javax.servlet-api引用（提示:<scope>provided</scope>告知替换）
 #
+图片展示：
+    <br>浏览<br>
+![浏览](https://github.com/laughter-dayu/ssm-crdu/blob/master/src/main/webapp/images/1.jpg)
+    <br>新增<br>
+![新增](https://github.com/laughter-dayu/ssm-crdu/blob/master/src/main/webapp/images/2.jpg)
+    <br>编辑<br>
+![编辑](https://github.com/laughter-dayu/ssm-crdu/blob/master/src/main/webapp/images/3.jpg)
+#

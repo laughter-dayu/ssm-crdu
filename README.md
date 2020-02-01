@@ -1,4 +1,4 @@
-SSM-CRUD/bilibili雷丰阳雷大神视屏讲解ssm_crud/IDEA版
+SSM-CRUD/bilibili雷丰阳雷大神视屏讲解/IDEA版
 ==
 基于ssm+bootstrap的简单员工管理系统，观看尚硅谷SSM整合视频教程所写。<br>视屏网址：https://www.bilibili.com/video/av35988777
 #
